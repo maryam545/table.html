@@ -11,11 +11,10 @@ td {
   font-size: 16px;
   text-align: center;
 }
-.row1 {
-  font-size: 12px;
-  text-align: center;
-}
-.row2 {
+.row1,
+.row2,
+.row3,
+.row4 {
   font-size: 12px;
   text-align: center;
 }
