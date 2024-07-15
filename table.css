@@ -5,6 +5,7 @@
 .table-style,
 th,
 td {
+  height: 60px;
   border: 1px solid black;
 }
 .header {
