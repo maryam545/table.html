@@ -1,0 +1,9 @@
+.table-style {
+  width: 100%;
+}
+
+.table-style,
+th,
+td {
+  border: 1px solid black;
+}
